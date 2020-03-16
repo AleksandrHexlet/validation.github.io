@@ -1,3 +1,7 @@
 # https://github.com/AleksandrHexlet/validation.github.io.git
-## Version v0.0.1
+## https://github.com/AleksandrHexlet
+### Version v0.0.2
 ![Praktikum Logo](/logo.svg)
+
+
+<This validation form is intended for validating names,phone numbers,email addresses,and websites. Includes validation of borderline cases.

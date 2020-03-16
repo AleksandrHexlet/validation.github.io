@@ -1,4 +1,4 @@
-# https://github.com/AleksandrHexlet/validation.github.io.git
+# https://aleksandrhexlet.github.io/validation.github.io/
 ## https://github.com/AleksandrHexlet
 ### Version v0.0.2
 ![Praktikum Logo](/logo.svg)
